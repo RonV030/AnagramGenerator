@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("this is my anagram generator");
+        System.out.println("this is my awesome anagram generator");
     }
 }
